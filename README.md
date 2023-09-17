@@ -1,2 +1,2 @@
 # knuth-morris-pratt
-Realization of Knuth-Morris-Pratt algorithm
+implementation of Knuth-Morris-Pratt algorithm
